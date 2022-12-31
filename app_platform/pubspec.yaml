@@ -12,12 +12,12 @@ dependencies:
   path:
   tekartik_platform_io:
     git:
-      url: https://github.com/CravApp/platform
+      url: https://github.com/CravApp/platform.dart
       ref: null_safety
       path: platform_io
   tekartik_platform_browser:
     git:
-      url: https://github.com/CravApp/platform
+      url: https://github.com/CravApp/platform.dart
       ref: null_safety
       path: platform_browser
 
@@ -27,7 +27,7 @@ dev_dependencies:
   process_run:
   tekartik_lints_flutter:
     git:
-      url: https://github.com/CravApp/common_flutter
+      url: https://github.com/CravApp/common_flutter.dart
       ref: null_safety
       path: packages/lints_flutter
     version: '>=0.1.0'
